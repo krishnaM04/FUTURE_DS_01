@@ -93,6 +93,10 @@ Created charts for:
 
 ---
 
+## Dashboard Preview
+
+![Dashboard](outputs/dashboard.png)
+
 ## Project Structure
 
 ```text
@@ -119,3 +123,4 @@ Conclusion
 This project demonstrates practical business analytics skills including data cleaning, KPI analysis, visualization, and insight generation using real-world sales data.
 
 The analysis provides meaningful recommendations that can help businesses improve decision-making and profitability.
+

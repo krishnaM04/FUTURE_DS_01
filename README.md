@@ -117,7 +117,7 @@ Created visualizations and dashboard components for:
 
 # Dashboard Preview
 
-![Dashboard](outputs/dashboard.png)
+![Dashboard](outputs/dashboard.png.png)
 
 ---
 
